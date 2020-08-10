@@ -1,6 +1,6 @@
 {
-  "homepage": "https://pramod-narasimha.github.io",
-  "name": "infratab-test",
+  "homepage": "https://pramod-narasimha.github.io/fetch-bank-list",
+  "name": "fetch-bank-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
