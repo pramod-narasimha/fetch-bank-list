@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1dd02eb6dd3a23d2c519c5674aa216cd",
+    "revision": "c2525adf8fd3c1e0c67465953e6a566d",
     "url": "/fetch-bank-list/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fetch-bank-list/static/css/2.1bd2ab2f.chunk.css"
   },
   {
-    "revision": "159c85318bb8e9c7b0ec",
+    "revision": "142be25212bb163f6bb4",
     "url": "/fetch-bank-list/static/css/main.963a6523.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fetch-bank-list/static/js/2.8c9ac2c4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "159c85318bb8e9c7b0ec",
-    "url": "/fetch-bank-list/static/js/main.d3aae56b.chunk.js"
+    "revision": "142be25212bb163f6bb4",
+    "url": "/fetch-bank-list/static/js/main.177b808c.chunk.js"
   },
   {
     "revision": "6e6fcea689ef7aff9b4f",
