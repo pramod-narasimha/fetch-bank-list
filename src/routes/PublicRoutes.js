@@ -1,22 +1,22 @@
-import React from 'react'
-import { Switch, Route } from 'react-router-dom'
-import LayoutComponent from '../Components/Layouts/LayoutComponent'
+import React from "react";
+import { Switch, Route } from "react-router-dom";
+import LayoutComponent from "../Components/Layouts/LayoutComponent";
 
 const PublicRoutes = () => (
   <Switch>
-    <Route exact path={['/', '/home']}>
+    <Route exact path={["/fetch-bank-list/", "/fetch-bank-list"]}>
       <LayoutComponent path={"HOME"} />
     </Route>
-    <Route exact path={'/banks'}>
-      <LayoutComponent path={"BANKS"}/>
+    <Route exact path={"/banks"}>
+      <LayoutComponent path={"BANKS"} />
     </Route>
-    <Route exact path={'/favourite'}>
-      <LayoutComponent path={"FAVOURITE"}/>
+    <Route exact path={"/favourite"}>
+      <LayoutComponent path={"FAVOURITE"} />
     </Route>
     <Route>
-      <LayoutComponent/>
+      <LayoutComponent />
     </Route>
   </Switch>
-)
+);
 
-export default PublicRoutes
+export default PublicRoutes;

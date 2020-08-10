@@ -7,7 +7,7 @@ import {
   MenuFoldOutlined,
   HomeFilled,
   BankFilled,
-  StarFilled
+  StarFilled,
 } from "@ant-design/icons";
 import BankDetailComponent from "../Banking/BankDetailComponent";
 import Notfound from "../StaticPages/NotFound";
@@ -35,7 +35,10 @@ const LayoutComponent = ({ path }) => {
           defaultSelectedKeys={["HOME"]}
           selectedKeys={[path]}
         >
-          <Menu.Item key="HOME" onClick={() => history.push(`/`)}>
+          <Menu.Item
+            key="HOME"
+            onClick={() => history.push(`/fetch-bank-list`)}
+          >
             <HomeFilled />
             <span>HOME</span>
           </Menu.Item>
@@ -56,7 +59,7 @@ const LayoutComponent = ({ path }) => {
               isCollapsed ? MenuUnfoldOutlined : MenuFoldOutlined,
               {
                 className: "trigger",
-                onClick: toggle
+                onClick: toggle,
               }
             )}
             <div className="header-background" />
@@ -66,11 +69,11 @@ const LayoutComponent = ({ path }) => {
           className="site-layout-background"
           style={{
             margin: "24px 16px",
-            padding: 24
+            padding: 24,
           }}
         >
           <Switch>
-            <Route exact path={["/", "/home"]}>
+            <Route exact path={["/fetch-bank-list"]}>
               <HomePage />
             </Route>
             <Route exact path={["/favourite/:bankID", "/banks/:bankID"]}>
