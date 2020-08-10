@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.963a6523.chunk.css",
-    "main.js": "/static/js/main.4e18eede.chunk.js",
-    "main.js.map": "/static/js/main.4e18eede.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8feebec3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8feebec3.js.map",
-    "static/css/2.1bd2ab2f.chunk.css": "/static/css/2.1bd2ab2f.chunk.css",
-    "static/js/2.6bbd7388.chunk.js": "/static/js/2.6bbd7388.chunk.js",
-    "static/js/2.6bbd7388.chunk.js.map": "/static/js/2.6bbd7388.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ddda8023d70a90f7ddeb1e0c89a8c2be.js": "/precache-manifest.ddda8023d70a90f7ddeb1e0c89a8c2be.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.1bd2ab2f.chunk.css.map": "/static/css/2.1bd2ab2f.chunk.css.map",
-    "static/css/main.963a6523.chunk.css.map": "/static/css/main.963a6523.chunk.css.map",
-    "static/js/2.6bbd7388.chunk.js.LICENSE.txt": "/static/js/2.6bbd7388.chunk.js.LICENSE.txt"
+    "main.css": "/fetch-bank-list/static/css/main.963a6523.chunk.css",
+    "main.js": "/fetch-bank-list/static/js/main.d3aae56b.chunk.js",
+    "main.js.map": "/fetch-bank-list/static/js/main.d3aae56b.chunk.js.map",
+    "runtime-main.js": "/fetch-bank-list/static/js/runtime-main.d56bdd43.js",
+    "runtime-main.js.map": "/fetch-bank-list/static/js/runtime-main.d56bdd43.js.map",
+    "static/css/2.1bd2ab2f.chunk.css": "/fetch-bank-list/static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.8c9ac2c4.chunk.js": "/fetch-bank-list/static/js/2.8c9ac2c4.chunk.js",
+    "static/js/2.8c9ac2c4.chunk.js.map": "/fetch-bank-list/static/js/2.8c9ac2c4.chunk.js.map",
+    "index.html": "/fetch-bank-list/index.html",
+    "precache-manifest.8f73e7926a681c7428b18e5765f059c9.js": "/fetch-bank-list/precache-manifest.8f73e7926a681c7428b18e5765f059c9.js",
+    "service-worker.js": "/fetch-bank-list/service-worker.js",
+    "static/css/2.1bd2ab2f.chunk.css.map": "/fetch-bank-list/static/css/2.1bd2ab2f.chunk.css.map",
+    "static/css/main.963a6523.chunk.css.map": "/fetch-bank-list/static/css/main.963a6523.chunk.css.map",
+    "static/js/2.8c9ac2c4.chunk.js.LICENSE.txt": "/fetch-bank-list/static/js/2.8c9ac2c4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8feebec3.js",
+    "static/js/runtime-main.d56bdd43.js",
     "static/css/2.1bd2ab2f.chunk.css",
-    "static/js/2.6bbd7388.chunk.js",
+    "static/js/2.8c9ac2c4.chunk.js",
     "static/css/main.963a6523.chunk.css",
-    "static/js/main.4e18eede.chunk.js"
+    "static/js/main.d3aae56b.chunk.js"
   ]
 }
